@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/RJ-TUNNEL/RJ-BOT/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/RJ-TUNNEL/RJ-BOT/blob/v1/media/RJ.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
