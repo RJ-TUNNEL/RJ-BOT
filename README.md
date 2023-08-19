@@ -59,7 +59,7 @@ npm start
     "botName": "RJ-BOT ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/RJ.jpg",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
